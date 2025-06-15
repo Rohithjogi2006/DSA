@@ -12,21 +12,22 @@
 - 🔁 **Current Day:** Day 2
 - 📈 **Progress**:  
   <p align="center">
-    <img src="https://img.shields.io/badge/Progress-2%25-blue?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Consistency-2_days-green?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Progress-3%25-blue?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Consistency-3_days-green?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 
 ---
 
 ### ✅ Progress Log
 
-| Day | Date         | Topic / Task                | Status |
-|-----|--------------|-----------------------------|--------|
-| 1   | June 14, 2025 | Linear Search, Setup        | ✅ Done |
-| 2   | June 15, 2025 | Binary Search, Notes        | ✅ Done |
-| 3   | June 16, 2025 | --                          | ⏳ Upcoming |
-| ... | ...          | ...                         | ...    |
-| 100 | --           | Final Day!                  | ⏳ Upcoming |
+| Day | Date          |  Status |
+|-----|---------------|---------|
+| 1   | June 14, 2025 | ✅ Done |
+| 2   | June 15, 2025 | ✅ Done |
+| 3   | June 16, 2025 | ✅ Done |
+| 4   | June 17, 2025 |    ...   |
+| 5   | June 18, 2025 |    ...   |
+| 100 | --            | ⏳ Upcoming |
 
 ---
 
