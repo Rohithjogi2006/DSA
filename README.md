@@ -1,34 +1,18 @@
-# 🚀 DSA Practisce - 100 Days Challenge 💯
+<h1 align="center">Hi 👋, I'm Rohith</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Welcome to my **100 Days of DSA Practice Challenge**!  
-This repository is a daily log of my journey to master **Data Structures and Algorithms (DSA)** using **Python**.
+- 🔭 I’m currently working on **E Commerce Website**
 
----
+- 🌱 I’m currently learning **Frameworks , Courses etc.**
 
-## 📅 Challenge Details
+- 📫 How to reach me **rohithjogi51@gmail.com**
 
-- **Challenge Start Date:** June 14, 2025
-- **Current Day:** Day 2 ✅
-- **Goal:** Practice DSA for 100 consecutive days
-- **Language:** 🐍 Python (Most Used)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 📈 Progress Tracker
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohithjogi2006&show_icons=true&locale=en&layout=compact" alt="rohithjogi2006" /></p>
 
-| Day | Date       | Status   | Topic/Activity         |
-|-----|------------|----------|------------------------|
-| 1   | June 14, 2025 | ✅ Done   | Linear Search, Basics |
-| 2   | June 15, 2025 | ✅ Done   | Binary Search, Notes  |
-| 3   | --           | ⏳ Pending | --                     |
-|...  | ...        | ...      | ...                    |
-| 100 | --         | ⏳ Pending | --                     |
-
-> ✅ = Completed | ⏳ = Pending
-
----
-
-## 🔥 Current Streak
-
-```text
-Day 1 🔥 Day 2 🔥 Day 3 ⏳ ... Day 100
