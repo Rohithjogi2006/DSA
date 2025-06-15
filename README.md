@@ -1,18 +1,42 @@
-<h1 align="center">Hi 👋, I'm Rohith</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">💯 100 Days of DSA Practice</h1>
 
-- 🔭 I’m currently working on **E Commerce Website**
-
-- 🌱 I’m currently learning **Frameworks , Courses etc.**
-
-- 📫 How to reach me **rohithjogi51@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  🚀 I'm on a mission to practice Data Structures & Algorithms using Python for 100 days straight!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohithjogi2006&show_icons=true&locale=en&layout=compact" alt="rohithjogi2006" /></p>
+### 📌 Challenge Overview
 
+- 🗓️ **Start Date:** June 14, 2025  
+- 🔁 **Current Day:** Day 2
+- 📈 **Progress**:  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Progress-2%25-blue?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Consistency-2_days-green?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+
+---
+
+### ✅ Progress Log
+
+| Day | Date         | Topic / Task                | Status |
+|-----|--------------|-----------------------------|--------|
+| 1   | June 14, 2025 | Linear Search, Setup        | ✅ Done |
+| 2   | June 15, 2025 | Binary Search, Notes        | ✅ Done |
+| 3   | June 16, 2025 | --                          | ⏳ Upcoming |
+| ... | ...          | ...                         | ...    |
+| 100 | --           | Final Day!                  | ⏳ Upcoming |
+
+---
+
+### 🐍 Language of Focus
+
+- I'm using **Python** to explore:
+  - Arrays, Linked Lists, Stacks, Queues
+  - Trees, Graphs, Recursion
+  - Sorting, Searching, and Dynamic Programming
+
+---
+
+📌 **Tracking daily. Let's crush this!** 💪🔥
